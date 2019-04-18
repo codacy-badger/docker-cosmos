@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-- Docker
-- Docker-Compose
+  - Docker
+  - Docker-Compose
 
 ## Getting Started
 
