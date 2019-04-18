@@ -13,7 +13,7 @@ docker-compose up -d
 
 You're now running a cosmos node on gaia-13003 testnet.
 
-Check the status [127.0.0.1:26657/status](127.0.0.1:26657/status) running locally. 
+Check the status here: [http://127.0.0.1:26657/status](http://127.0.0.1:26657/status). 
 
 Modify the environment variables in the docker-compose.yml file as needed.
 
